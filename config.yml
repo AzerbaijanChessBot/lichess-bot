@@ -1,4 +1,4 @@
-token: "yourtoken"                  # Lichess OAuth2 Token
+token: "IbTAlkNsPT1JE9Q0"    # Lichess OAuth2 Token
 url: "https://lichess.org/"  # Lichess base URL
 
 engine:                      # Engine settings
@@ -48,7 +48,7 @@ move_overhead: 4000          # Increase if your bot flags games too often
 
 correspondence:
     move_time: 60            # Time in seconds to search in correspondence games
-    checkin_period: 1200     # How often to check for opponent moves in correspondence games that have been disconnected from
+    checkin_period: 600      # How often to check for opponent moves in correspondence games that have been disconnected from
     disconnect_time: 5       # Time before disconnecting from a correspondence game
     ponder: false            # Ponder in correspondence games the bot is connected to
 
