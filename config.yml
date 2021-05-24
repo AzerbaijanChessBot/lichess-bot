@@ -64,14 +64,14 @@ challenge:                   # Incoming challenges
   variants:                  # Chess variants to accept (http://lichess.org/variant)
     - standard
     - fromPosition
-#   - antichess
-#   - atomic
+    - antichess
+    - atomic
     - chess960
-#   - crazyhouse
-#   - horde
-#   - kingOfTheHill
-#   - racingKings
-#   - threeCheck
+    - crazyhouse
+    - horde
+    - kingOfTheHill
+    - racingKings
+    - threeCheck
   time_controls:             # Time controls to accept
     - bullet
     - blitz
